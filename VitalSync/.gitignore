@@ -1,7 +1,7 @@
 # Dépendances Node.js
 node_modules/
 
-# Fichiers d'environnement (secrets)
+# Fichiers secrets
 .env
 .env.local
 .env.*.local
