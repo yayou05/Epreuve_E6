@@ -1,0 +1,25 @@
+# Dépendances Node.js
+node_modules/
+
+# Fichiers d'environnement (secrets)
+.env
+.env.local
+.env.*.local
+
+# Build React
+build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage tests
+coverage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker override local
+docker-compose.override.yml
